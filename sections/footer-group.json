@@ -77,7 +77,7 @@
       "name": "t:names.hero_marquee",
       "settings": {
         "media_type_1": "image",
-        "image_1": "shopify://shop_images/Gemini_Generated_Image_tmn9sftmn9sftmn9.png",
+        "image_1": "shopify://shop_images/jj_unifitd.png",
         "media_type_2": "image",
         "link": "",
         "open_in_new_tab": false,
@@ -90,7 +90,7 @@
         "vertical_alignment_flex_direction_column": "space-between",
         "gap": 31,
         "section_width": "page-width",
-        "section_height": "custom",
+        "section_height": "large",
         "section_height_custom": 39,
         "color_scheme": "scheme-5",
         "toggle_overlay": true,
