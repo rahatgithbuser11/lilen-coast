@@ -83,6 +83,7 @@
           "blocks": {
             "title": {
               "type": "_inline-collection-title",
+              "name": "Men Watches",
               "static": true,
               "settings": {
                 "font": "var(--font-heading--family)",
