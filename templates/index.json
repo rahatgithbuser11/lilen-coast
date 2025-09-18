@@ -71,55 +71,6 @@
         "padding-block-end": 0
       }
     },
-    "collection_links_Ut4aMz": {
-      "type": "collection-links",
-      "blocks": {
-        "link": {
-          "type": "_collection-link",
-          "static": true,
-          "settings": {
-            "show_count": true
-          },
-          "blocks": {
-            "title": {
-              "type": "_inline-collection-title",
-              "name": "Men Watches",
-              "static": true,
-              "settings": {
-                "font": "var(--font-heading--family)",
-                "weight": "",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none"
-              },
-              "blocks": {}
-            },
-            "image": {
-              "type": "_image",
-              "static": true,
-              "settings": {
-                "height": "medium",
-                "ratio": "portrait",
-                "border_radius": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": []
-        }
-      },
-      "name": "Collection links",
-      "settings": {
-        "collection_list": [],
-        "layout": "spotlight",
-        "section_width": "page-width",
-        "alignment": "left",
-        "image_position": "right",
-        "color_scheme": "",
-        "padding-block-start": 82,
-        "padding-block-end": 82
-      }
-    },
     "featured_product_mTUbKC": {
       "type": "featured-product",
       "blocks": {
@@ -626,7 +577,6 @@
   },
   "order": [
     "hero_iyt6zg",
-    "collection_links_Ut4aMz",
     "featured_product_mTUbKC",
     "product_list_UwRqN4",
     "hero_MVUtj6"
