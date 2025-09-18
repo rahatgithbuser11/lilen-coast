@@ -133,7 +133,8 @@
           "static": true,
           "settings": {
             "media_type": "image",
-            "link": "",
+            "image": "shopify://shop_images/Generated_Image_September_18_2025_-_3_32PM.png",
+            "link": "shopify://collections/men-watches",
             "video_loop": true,
             "video_autoplay": false,
             "image_position": "cover",
@@ -155,7 +156,7 @@
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
-                "type_preset": "h5",
+                "type_preset": "h4",
                 "font": "var(--font-body--family)",
                 "font_size": "1rem",
                 "line_height": "normal",
@@ -178,7 +179,7 @@
               "static": true,
               "settings": {
                 "show_sale_price_first": true,
-                "type_preset": "h5"
+                "type_preset": "h4"
               },
               "blocks": {}
             },
