@@ -110,7 +110,12 @@
       },
       "name": "t:names.collection_links_spotlight",
       "settings": {
-        "collection_list": [],
+        "collection_list": [
+          "men-lilens",
+          "men-polos",
+          "men-sweaters",
+          "men-watches"
+        ],
         "layout": "spotlight",
         "section_width": "page-width",
         "alignment": "left",
