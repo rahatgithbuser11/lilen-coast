@@ -15,7 +15,7 @@
       "type": "divider",
       "name": "t:names.divider_section",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "section_width": "full-width",
         "thickness": 1,
         "corner_radius": "square",
@@ -121,7 +121,7 @@
       "type": "divider",
       "name": "t:names.divider_section",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-3",
         "section_width": "full-width",
         "thickness": 1,
         "corner_radius": "square",

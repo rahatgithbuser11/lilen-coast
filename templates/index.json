@@ -150,16 +150,16 @@
           "name": "t:names.collection_card",
           "static": true,
           "settings": {
-            "placement": "below_image",
+            "placement": "on_image",
             "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
+            "vertical_alignment": "flex-start",
             "collection_card_gap": 10,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0
+            "inherit_color_scheme": false,
+            "color_scheme": "scheme-2",
+            "border": "solid",
+            "border_width": 2.5,
+            "border_opacity": 49,
+            "border_radius": 15
           },
           "blocks": {
             "collection_title_6XcxkR": {
@@ -237,6 +237,20 @@
         "color_scheme": "",
         "padding-block-start": 48,
         "padding-block-end": 48
+      }
+    },
+    "divider_97gP6P": {
+      "type": "divider",
+      "name": "t:names.divider_section",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "section_width": "full-width",
+        "thickness": 1,
+        "corner_radius": "square",
+        "width_percent": 100,
+        "alignment_horizontal": "center",
+        "padding-block-start": 16,
+        "padding-block-end": 16
       }
     },
     "collection_links_R4RMJg": {
@@ -793,6 +807,20 @@
         "padding-block-end": 100
       }
     },
+    "divider_gp6R68": {
+      "type": "divider",
+      "name": "t:names.divider_section",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "section_width": "full-width",
+        "thickness": 1,
+        "corner_radius": "square",
+        "width_percent": 100,
+        "alignment_horizontal": "center",
+        "padding-block-start": 16,
+        "padding-block-end": 16
+      }
+    },
     "hero_MVUtj6": {
       "type": "hero",
       "blocks": {
@@ -880,25 +908,12 @@
         "padding-block-start": 0,
         "padding-block-end": 40
       }
-    },
-    "divider_FTHt6k": {
-      "type": "divider",
-      "name": "t:names.divider_section",
-      "settings": {
-        "color_scheme": "",
-        "section_width": "full-width",
-        "thickness": 1,
-        "corner_radius": "square",
-        "width_percent": 100,
-        "alignment_horizontal": "center",
-        "padding-block-start": 16,
-        "padding-block-end": 16
-      }
     }
   },
   "order": [
     "hero_iyt6zg",
     "collection_list_ew3UEx",
+    "divider_97gP6P",
     "collection_links_R4RMJg",
     "marquee_iPG6hq",
     "marquee_KhPY6U",
@@ -906,7 +921,7 @@
     "marquee_MncamM",
     "divider_TyLdLF",
     "product_list_UwRqN4",
-    "hero_MVUtj6",
-    "divider_FTHt6k"
+    "divider_gp6R68",
+    "hero_MVUtj6"
   ]
 }
