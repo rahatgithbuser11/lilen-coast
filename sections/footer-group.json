@@ -345,7 +345,7 @@
               "settings": {
                 "heading": "How much does shipping cost?",
                 "open_by_default": false,
-                "icon": "none",
+                "icon": "question_mark",
                 "width": 20
               },
               "blocks": {
