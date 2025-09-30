@@ -155,7 +155,7 @@
             "vertical_alignment": "flex-start",
             "collection_card_gap": 10,
             "inherit_color_scheme": false,
-            "color_scheme": "scheme-2",
+            "color_scheme": "scheme-4",
             "border": "solid",
             "border_width": 2.5,
             "border_opacity": 49,
@@ -243,7 +243,7 @@
       "type": "divider",
       "name": "t:names.divider_section",
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-4",
         "section_width": "full-width",
         "thickness": 1,
         "corner_radius": "square",
@@ -342,7 +342,7 @@
       "name": "t:names.marquee_section",
       "settings": {
         "movement_direction": "normal",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-4",
         "padding-block-start": 24,
         "padding-block-end": 24,
         "gap_between_elements": 24
@@ -424,7 +424,7 @@
       "name": "t:names.marquee_section",
       "settings": {
         "movement_direction": "normal",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-4",
         "padding-block-start": 24,
         "padding-block-end": 24,
         "gap_between_elements": 24
@@ -475,7 +475,7 @@
       "type": "divider",
       "name": "t:names.divider_section",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "section_width": "full-width",
         "thickness": 1,
         "corner_radius": "square",
@@ -811,7 +811,7 @@
       "type": "divider",
       "name": "t:names.divider_section",
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-4",
         "section_width": "full-width",
         "thickness": 1,
         "corner_radius": "square",
